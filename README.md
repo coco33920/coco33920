@@ -1,6 +1,6 @@
 ### Hi !
 
-🖥️ I'm Charlotte, an 18 years old french mostly backend developer
+🖥️ I'm Charlotte, i'm 18 years old, french, and mostly backend developer
 
 🧮 I really love mathematics, physics, the international system of units and Star Trek, i'm a member of STARFLEET International, The International Star Trek Fan Association, i'm also a complete weeb :shrug:. 
 
