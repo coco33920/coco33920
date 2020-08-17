@@ -4,7 +4,7 @@
 
 🧮 I really love mathematics, physics, the international system of units and Star Trek, i'm a member of STARFLEET International, The International Star Trek Fan Association, i'm also a complete weeb :shrug:. 
 
-🌈 She/Her
+🌈 L,A & T, she/her 
 
 📫 <a href="https://twitter.com/coco33920">Twitter</a> 
 
