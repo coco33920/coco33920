@@ -14,4 +14,7 @@ You can browse old projects ( such as the amazing âœ¨ Automatic Report System âœ
 Alternatively do not hesitate to have a look to my currents assigments ( the code of our ***TIPE*** is freely available online for your cute little eyes to judge it ). I love the Baguette# language and i'm sure you'll love it too! Provided you're a bit masochistic, love nonsense and are ready to learn all the pastries of our contry
 <br>
 
+### Statistics and Misc
+![stats](https://github-readme-stats.vercel.app/api?username=coco33920&count_private=true&show_icons=true&theme=material-palenight)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=coco33920&layout=compact)
 
