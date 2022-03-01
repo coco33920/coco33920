@@ -15,6 +15,6 @@ Alternatively do not hesitate to have a look to my currents assigments ( the cod
 <br>
 
 ### Statistics and Misc
-![stats](https://github-readme-stats.vercel.app/api?username=coco33920&count_private=true&show_icons=true&theme=material-palenight)
+![stats](https://github-readme-stats.vercel.app/api?username=coco33920&count_private=true&show_icons=true&theme=material-palenight) <br/>
 ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=coco33920&layout=compact)
 
