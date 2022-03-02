@@ -15,7 +15,7 @@ Alternatively do not hesitate to have a look to my currents assigments ( the cod
 <br>
 
 ### Statistics and Misc
-[![wakatime](https://wakatime.com/badge/user/b1f4dcdc-775f-471b-b075-adf1a1e8c86e.svg)](https://wakatime.com/@b1f4dcdc-775f-471b-b075-adf1a1e8c86e)
+[![wakatime](https://wakatime.com/badge/user/b1f4dcdc-775f-471b-b075-adf1a1e8c86e.svg)](https://wakatime.com/@b1f4dcdc-775f-471b-b075-adf1a1e8c86e) <br/>
 ![stats](https://github-readme-stats.vercel.app/api?username=coco33920&count_private=true&show_icons=true&theme=material-palenight) <br/>
 ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=coco33920&layout=compact)
 
