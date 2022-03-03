@@ -19,5 +19,5 @@ Alternatively do not hesitate to have a look to my currents assigments ( the cod
 ![w](https://github-readme-stats.vercel.app/api/wakatime?username=b1f4dcdc-775f-471b-b075-adf1a1e8c86e) <br/>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=coco33920&count_private=true&show_icons=true&theme=material-palenight) <br/>
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=coco33920&layout=compact)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=coco33920)
 
