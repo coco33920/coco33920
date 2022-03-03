@@ -14,6 +14,11 @@ You can browse old projects ( such as the amazing âœ¨ Automatic Report System âœ
 Alternatively do not hesitate to have a look to my currents assigments ( the code of our ***TIPE*** is freely available online for your cute little eyes to judge it ). I love the Baguette# language and i'm sure you'll love it too! Provided you're a bit masochistic, love nonsense and are ready to learn all the pastries of our contry
 <br>
 
+### Activity
+
+![wk](https://wakatime.com/share/@coco33920/6f6cf210-3a1e-441d-8314-217b1c08cbeb.svg)<br/>
+![wa](https://wakatime.com/share/@coco33920/f342595e-0608-4287-82bc-ebc6dbe23da6.svg)<br/>
+
 ### Statistics and Misc
 [![badge](https://wakatime.com/badge/user/b1f4dcdc-775f-471b-b075-adf1a1e8c86e.svg?style=for-the-badge)](https://wakatime.com/@coco33920) <br/>
 ![w](https://github-readme-stats.vercel.app/api/wakatime?username=b1f4dcdc-775f-471b-b075-adf1a1e8c86e) <br/>
