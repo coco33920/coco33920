@@ -16,7 +16,7 @@ I'm also developping STARFinder which is a little project to learn Scala and its
 
 ### Statistics and Misc
 
-[![languages](https://wakatime.com/share/@coco33920/29de7742-139d-418f-998a-51d7d3ab524f.svg)](https://wakatime.com/share/@coco33920/29de7742-139d-418f-998a-51d7d3ab524f.svg)
+![languages](https://wakatime.com/share/@coco33920/bc430b88-aff7-433f-afa4-711885771c51.svg)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=coco33920&count_private=true&show_icons=true&theme=material-palenight) 
 
