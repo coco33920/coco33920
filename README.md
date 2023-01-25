@@ -2,7 +2,9 @@
 
 🖥️ Hello! I'm 20 and a student at @univ-rennes1 (ISTIC) in Computer Science (second year) after a cycle of two years in _classe préparatoires aux grandes écoles_ 
 
-🧮 I work mainly in Theoretical Computer Science, in formal language theory, I'm only starting to learn it so my work is not very advanced, you can check Baguette# or STARFinder for more information
+🧮 I work mainly in Theoretical Computer Science, in formal language theory, I'm only starting to learn it so my work is not very advanced, you can check Baguette# or STARFinder for more information.
+
+As of february I started an internship at IRISA/INRIA Rennes, at the [PACAP Team](https://team.inria.fr/pacap/presentation/), where I'll work on OFast3D.
 
 🌈 She/her
 
