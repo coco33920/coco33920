@@ -4,7 +4,7 @@
 
 🧮 I work mainly in Theoretical Computer Science, in formal language theory, I'm only starting to learn it so my work is not very advanced, you can check Baguette# or STARFinder for more information.
 
-As of february I started an internship at IRISA/INRIA Rennes, at the [PACAP Team](https://team.inria.fr/pacap/presentation/), where I'll work on OFast3D.
+As of february I started an internship at IRISA/INRIA Rennes, at the [PACAP Team](https://team.inria.fr/pacap/presentation/), where I'll work on [OFast3D](https://project.inria.fr/ofast3d/).
 
 🌈 She/her
 
