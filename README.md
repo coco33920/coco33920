@@ -8,7 +8,7 @@ In february 2023 I started an internship at IRISA/INRIA Rennes, at the [PACAP Te
 
 🌈 She/her
 
-📫 I'm *always* available to chat or answer question, on  <a href="https://twitter.com/coco33920">Twitter</a>, by mail ( *contact@nwa2coco.fr* ), or Discord ( charlotte_thomas ).
+📫 I'm *always* available to chat or answer question, on <a href="https://tech.lgbt/@coco33920">Mastodon </a>, by mail ( *charlotte [at] nwa2coco.fr* ), or Discord ( charlotte_thomas ).
 
 See more in [my webpage](https://me.nwa2coco.fr)
 
