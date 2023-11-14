@@ -20,7 +20,7 @@ I love [calc](https://github.com/coco33920/calc) too which is a minimalistic cal
 If you want to see more go see my [cv (fr)](https://github.com/coco33920/cv/blob/master/cv_2023.pdf) or [cv (en)](https://github.com/coco33920/cv/blob/master/cv_2023_en.pdf) 
 coded in Typst: the modern replacement of LaTeX. I love how flexible and powerful Typst is you should check out their [website](https://typst.app) to become part of the #TypstFamily 
 
-<a href="https://github.com/typst/typst"><img src="https://github.com/coco33920/coco33920/assets/17108449/34a5422d-8721-4593-b776-892c1ea74962" width="40em"/></a>
+<img src="https://github.com/coco33920/coco33920/assets/17108449/34a5422d-8721-4593-b776-892c1ea74962" width="80em"/>
 
 
 
