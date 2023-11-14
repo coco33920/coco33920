@@ -1,8 +1,8 @@
-### Welcome to the _charlotte zone_ !
+## Welcome to the _charlotte zone_ !
 
 🖥️ Hello! I'm 21 and a student at @univ-rennes1 (ISTIC) in Computer Science (third year) after a cycle of two years in _classe préparatoires aux grandes écoles_ 
 
-🧮 I work mainly in Theoretical Computer Science, in formal language theory, I'm only starting to learn it so my work is not very advanced, you can check [calc](https://github.com/coco33920/calc), [Baguette#](https://github.com/coco33920/ocaml-baguetteshap-interpreter) or [STARFinder](https://github.com/coco33920/STARFinder) for more information.
+🧮 I work mainly in Theoretical Computer Science, in formal language theory, I'm only starting to learn it so my work is not very advanced, you can check [calc](https://github.com/coco33920/calc), [Baguette#](https://github.com/coco33920/ocaml-baguettesharp-interpreter) or [STARFinder](https://github.com/coco33920/STARFinder) for more information.
 
 In february 2023 I started an internship at IRISA/INRIA Rennes, at the [PACAP Team](https://team.inria.fr/pacap/presentation/), where I worked on [OFast3D](https://project.inria.fr/ofast3d/). This internship ended in July 2023.
 
