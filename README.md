@@ -22,12 +22,15 @@ coded in Typst: the modern replacement of LaTeX. I love how flexible and powerfu
 
 <img src="https://github.com/coco33920/coco33920/assets/17108449/34a5422d-8721-4593-b776-892c1ea74962" width="80em"/>
 
-
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=rust,ocaml,cpp,scala,md,git,linux,neovim,nginx)]()
 
 <br>
 
 ### Statistics and Misc
 
-![lang](https://wakatime.com/share/@coco33920/a807b877-007c-49cc-96bd-14e6c523ead2.svg)
+![Wakatime](https://wakatime.com/share/@coco33920/65d64bea-6bec-4b17-8a7c-2e608aecfbe7.svg)
 
-![stats](https://github-readme-stats.vercel.app/api?username=coco33920&count_private=true&show_icons=true&theme=material-palenight) 
+![stats](https://github-readme-stats.vercel.app/api?username=coco33920&count_private=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d) 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=coco33920&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
