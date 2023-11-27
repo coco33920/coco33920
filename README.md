@@ -23,7 +23,7 @@ coded in Typst: the modern replacement of LaTeX. I love how flexible and powerfu
 <img src="https://github.com/coco33920/coco33920/assets/17108449/34a5422d-8721-4593-b776-892c1ea74962" width="80em"/>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=rust,ocaml,cpp,scala,md,git,linux,neovim,nginx)]()
+[![My Skills](https://skillicons.dev/icons?i=rust,ocaml,cpp,java,scala,md,git,linux,neovim,nginx)]()
 
 <br>
 
