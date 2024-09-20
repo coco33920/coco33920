@@ -1,11 +1,13 @@
 ## Welcome to the _charlotte zone_ !
 
-🖥️ Hello! I'm 22 and a student at @univ-rennes1 (ISTIC) in Computer Science (third year) after a cycle of two years in _classe préparatoires aux grandes écoles_ 
+🖥️ Hello! I'm 22, former student at @univ-rennes1 (ISTIC) in Computer Science after a cycle of two years in _classe préparatoires aux grandes écoles_ 
 
 🧮 I work mainly in Theoretical Computer Science, in formal language theory, I'm only starting to learn it so my work is not very advanced, you can check [calc](https://github.com/coco33920/calc), [Baguette#](https://github.com/coco33920/ocaml-baguettesharp-interpreter) or [STARFinder](https://github.com/coco33920/STARFinder) for more information.
 
 In february 2023 I started an internship at IRISA/INRIA Rennes, at the [PACAP Team](https://team.inria.fr/pacap/presentation/), where I worked on [OFast3D](https://project.inria.fr/ofast3d/). This internship ended in July 2023.
-I'm now in an internship in the [EPICURE Team](https://team.inria.fr/epicure/) where I work on the [back-to-the-trees](https://back-to-the-trees.gitlabpages.inria.fr/plantinator/) project. This internship will end in July 2024.
+My end of study internship was in the [EPICURE Team](https://team.inria.fr/epicure/) where I worked on the [back-to-the-trees](https://back-to-the-trees.gitlabpages.inria.fr/plantinator/) project. This internship ended in July 2024.
+
+I am now an IT specialist in training at French Tax Division (DGFiP)
 
 🌈 She/her
 
@@ -18,7 +20,7 @@ As I said above I work now in formal language theory, primarly in *OCaml* and *R
 
 I love [calc](https://github.com/coco33920/calc) too which is a calculator programmed in Rust with a Pratt parser method. You can check it out, it's really worth an eye :)
 
-If you want to see more go see my [cv (🇫🇷)](https://github.com/coco33920/cv/blob/master/cv_2023.pdf) or [cv (🇬🇧)](https://github.com/coco33920/cv/blob/master/cv_2023_en.pdf) 
+If you want to see more go see my [cv (🇫🇷)](https://github.com/coco33920/cv/blob/master/cv_2024.pdf) or [cv (🇬🇧)](https://github.com/coco33920/cv/blob/master/cv_2024_en.pdf) 
 coded in Typst: the modern replacement of LaTeX. I love how flexible and powerful Typst is you should check out their [website](https://typst.app) to become part of the #TypstFamily 
 
 <img src="https://github.com/coco33920/coco33920/assets/17108449/34a5422d-8721-4593-b776-892c1ea74962" width="80em"/>
