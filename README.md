@@ -7,7 +7,7 @@
 In february 2023 I started an internship at IRISA/INRIA Rennes, at the [PACAP Team](https://team.inria.fr/pacap/presentation/), where I worked on [OFast3D](https://project.inria.fr/ofast3d/). This internship ended in July 2023.
 My end of study internship was in the [EPICURE Team](https://team.inria.fr/epicure/) where I worked on the [back-to-the-trees](https://back-to-the-trees.gitlabpages.inria.fr/plantinator/) project. This internship ended in July 2024.
 
-I am now an IT specialist in training at French Tax Division (DGFiP)
+I am now an IT specialist
 
 🌈 She/her
 
