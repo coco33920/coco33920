@@ -21,7 +21,7 @@ As I said above I work now in formal language theory, primarly in *OCaml* and *R
 I love [calc](https://github.com/coco33920/calc) too which is a calculator programmed in Rust with a Pratt parser method. You can check it out, it's really worth an eye :)
 
 If you want to see more go see my [cv (🇫🇷)](https://github.com/coco33920/cv/blob/master/cv_2024.pdf) or [cv (🇬🇧)](https://github.com/coco33920/cv/blob/master/cv_2024_en.pdf) 
-coded in Typst: the modern replacement of LaTeX. I love how flexible and powerful Typst is you should check out their [website](https://typst.app) to become part of the #TypstFamily 
+coded in Typst: the modern replacement of LaTeX. I love how flexible and powerful Typst is you should check out their [website](https://typst.app) to become part of the #TypstFamily. I am a proud supporter of their work as well as one of the most prolific community contributors as well.
 
 <img src="https://github.com/coco33920/coco33920/assets/17108449/34a5422d-8721-4593-b776-892c1ea74962" width="80em"/>
 
