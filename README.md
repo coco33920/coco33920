@@ -4,24 +4,24 @@
 
 🧮 I work mainly in Theoretical Computer Science, in formal language theory, I'm only starting to learn it so my work is not very advanced, you can check [calc](https://github.com/coco33920/calc), [Baguette#](https://github.com/coco33920/ocaml-baguettesharp-interpreter) or [STARFinder](https://github.com/coco33920/STARFinder) for more information.
 
-In february 2023 I started an internship at IRISA/INRIA Rennes, at the [PACAP Team](https://team.inria.fr/pacap/presentation/), where I worked on [OFast3D](https://project.inria.fr/ofast3d/). This internship ended in July 2023.
-My end of study internship was in the [EPICURE Team](https://team.inria.fr/epicure/) where I worked on the [back-to-the-trees](https://back-to-the-trees.gitlabpages.inria.fr/plantinator/) project. This internship ended in July 2024.
+In February 2023 I started an internship at IRISA/INRIA Rennes, at the [PACAP Team](https://team.inria.fr/pacap/presentation/), where I worked on [OFast3D](https://project.inria.fr/ofast3d/). This internship ended in July 2023.
+My end-of-study internship was in the [EPICURE Team](https://team.inria.fr/epicure/), where I worked on the [back-to-the-trees](https://back-to-the-trees.gitlabpages.inria.fr/plantinator/) project. This internship ended in July 2024.
 
 I am now an IT specialist
 
 🌈 She/her
 
-📫 I'm *always* available to chat or answer question, on <a href="https://tech.lgbt/@coco33920">Mastodon </a>, by mail ( *charlotte [at] nwa2coco.fr* ), or Discord ( charlotte_thomas ).
+📫 I'm *always* available to chat or answer question, on <a href="https://tech.lgbt/@coco33920">Mastodon </a>, by mail ( *me [at] charlotte-thomas.me* ), or Discord ( vanilla_extracts ).
 
 See more in [my webpage](https://charlotte-thomas.me)
 
 ### My Work
-As I said above I work now in formal language theory, primarly in *OCaml* and *Rust* but also in *Scala* (which my University requires), I plan to learn Coq as I continue (and Haskell). I'm actively developping _Baguette#_ (read Baguette Sharp) which is an exotic language with an horrible syntax and where all instruction, basic library, keywords and separators are replaced by name of pastries (mainly french one but I ran out of french pastries a while ago)
+As I said above I work now in formal language theory, primarily in *OCaml* and *Rust* but also in *Scala* (which my University requires), I plan to learn Coq as I continue (and Haskell). I'm actively developing _Baguette#_ (read Baguette Sharp) which is an exotic language with a horrible syntax and where all instruction, basic library, keywords and separators are replaced by names of pastries (mainly French but I ran out of French pastries a while ago)
 
-I love [calc](https://github.com/coco33920/calc) too which is a calculator programmed in Rust with a Pratt parser method. You can check it out, it's really worth an eye :)
+I love [calc](https://github.com/coco33920/calc) as well, which is a calculator programmed in Rust with a Pratt parser method. You can check it out, it's worth an eye :)
 
-If you want to see more go see my [cv (🇫🇷)](https://github.com/coco33920/cv/blob/master/cv_2024.pdf) or [cv (🇬🇧)](https://github.com/coco33920/cv/blob/master/cv_2024_en.pdf) 
-coded in Typst: the modern replacement of LaTeX. I love how flexible and powerful Typst is you should check out their [website](https://typst.app) to become part of the #TypstFamily. I am a proud supporter of their work as well as one of the most prolific community contributors as well.
+If you want to see more see my [cv (🇫🇷)](https://github.com/coco33920/cv/blob/master/cv_2024.pdf) or [cv (🇬🇧)](https://github.com/coco33920/cv/blob/master/cv_2024_en.pdf) 
+coded in Typst: the modern replacement of LaTeX. I love how flexible and powerful Typst is you should check out their [website](https://typst.app) to become part of the #TypstFamily. I am a proud supporter of their work and one of the most prolific community contributors.
 
 <img src="https://github.com/coco33920/coco33920/assets/17108449/34a5422d-8721-4593-b776-892c1ea74962" width="80em"/>
 
