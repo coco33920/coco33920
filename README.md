@@ -13,7 +13,7 @@ I am now an IT specialist
 
 📫 I'm *always* available to chat or answer question, on <a href="https://tech.lgbt/@coco33920">Mastodon </a>, by mail ( *charlotte [at] nwa2coco.fr* ), or Discord ( charlotte_thomas ).
 
-See more in [my webpage](https://me.nwa2coco.fr)
+See more in [my webpage](https://charlotte-thomas.me)
 
 ### My Work
 As I said above I work now in formal language theory, primarly in *OCaml* and *Rust* but also in *Scala* (which my University requires), I plan to learn Coq as I continue (and Haskell). I'm actively developping _Baguette#_ (read Baguette Sharp) which is an exotic language with an horrible syntax and where all instruction, basic library, keywords and separators are replaced by name of pastries (mainly french one but I ran out of french pastries a while ago)
