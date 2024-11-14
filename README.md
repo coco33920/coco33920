@@ -11,7 +11,7 @@ I am now an IT specialist
 
 🌈 She/her
 
-📫 I'm *always* available to chat or answer question, on <a href="https://tech.lgbt/@coco33920">Mastodon </a>, by mail ( *me [at] charlotte-thomas.me* ), or Discord ( vanilla_extracts ).
+📫 I'm *always* available to chat or answer question, by mail ( *me [at] charlotte-thomas.me* ), or Discord ( vanilla_extracts ).
 
 See more in [my webpage](https://charlotte-thomas.me)
 
